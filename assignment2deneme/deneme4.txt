@@ -1,0 +1,260 @@
+Target: 501
+
+Throw: 2 O
+Points: 101
+Throw: 4 D
+Points: 93
+Throw: 15 S
+Points: 78
+Throw: 12 D
+Points: 54
+Throw: 6 O
+Points: 29
+Throw: 10 O
+Points: 4
+Throw: 11 I
+Points: 4
+Throw: 2 I
+Points: 4
+Throw: 17 I
+Points: 4
+Throw: 17 D
+Points: 4
+Throw: 8 O
+Points: 4
+Throw: 19 T
+Points: 4
+Throw: 11 T
+Points: 4
+Throw: 6 T
+Points: 4
+Throw: 15 T
+Points: 4
+Throw: 14 S
+Points: 4
+Throw: 15 S
+Points: 4
+Throw: 6 S
+Points: 4
+Throw: 20 D
+Points: 4
+Throw: 14 D
+Points: 4
+Throw: 20 S
+Points: 4
+Throw: 20 D
+Points: 4
+Throw: 3 T
+Points: 4
+Throw: 15 I
+Points: 4
+Throw: 8 T
+Points: 4
+Throw: 18 D
+Points: 4
+Throw: 19 I
+Points: 4
+Throw: 10 T
+Points: 4
+Throw: 8 D
+Points: 4
+Throw: 6 O
+Points: 4
+Throw: 19 I
+Points: 4
+Throw: 4 T
+Points: 4
+Throw: 2 O
+Points: 4
+Throw: 1 D
+Points: 2
+Throw: 1 O
+Points: 2
+Throw: 19 T
+Points: 2
+Throw: 15 O
+Points: 2
+Throw: 3 O
+Points: 2
+Throw: 13 S
+Points: 2
+Throw: 16 I
+Points: 2
+Throw: 5 I
+Points: 2
+Throw: 2 O
+Points: 2
+Throw: 10 T
+Points: 2
+Throw: 14 I
+Points: 2
+Throw: 10 O
+Points: 2
+Throw: 8 T
+Points: 2
+Throw: 18 I
+Points: 2
+Throw: 1 I
+Points: 2
+Throw: 15 T
+Points: 2
+Throw: 2 T
+Points: 2
+Throw: 1 S
+Points: 2
+Throw: 3 T
+Points: 2
+Throw: 9 D
+Points: 2
+Throw: 17 S
+Points: 2
+Throw: 1 O
+Points: 2
+Throw: 6 I
+Points: 2
+Throw: 4 O
+Points: 2
+Throw: 19 D
+Points: 2
+Throw: 6 S
+Points: 2
+Throw: 9 D
+Points: 2
+Throw: 8 O
+Points: 2
+Throw: 2 I
+Points: 2
+Throw: 14 D
+Points: 2
+Throw: 5 O
+Points: 2
+Throw: 5 D
+Points: 2
+Throw: 7 O
+Points: 2
+Throw: 13 T
+Points: 2
+Throw: 17 O
+Points: 2
+Throw: 8 D
+Points: 2
+Throw: 13 I
+Points: 2
+Throw: 16 O
+Points: 2
+Throw: 9 D
+Points: 2
+Throw: 6 I
+Points: 2
+Throw: 10 I
+Points: 2
+Throw: 5 D
+Points: 2
+Throw: 9 D
+Points: 2
+Throw: 15 T
+Points: 2
+Throw: 11 D
+Points: 2
+Throw: 20 I
+Points: 2
+Throw: 6 O
+Points: 2
+Throw: 3 I
+Points: 2
+Throw: 6 O
+Points: 2
+Throw: 9 I
+Points: 2
+Throw: 12 I
+Points: 2
+Throw: 7 I
+Points: 2
+Throw: 12 T
+Points: 2
+Throw: 20 D
+Points: 2
+Throw: 11 T
+Points: 2
+Throw: 14 O
+Points: 2
+Throw: 9 I
+Points: 2
+Throw: 20 O
+Points: 2
+Throw: 2 I
+Points: 2
+Throw: 17 T
+Points: 2
+Throw: 20 T
+Points: 2
+Throw: 20 T
+Points: 2
+Throw: 1 S
+Points: 2
+Throw: 11 I
+Points: 2
+Throw: 19 D
+Points: 2
+Throw: 9 I
+Points: 2
+Throw: 20 D
+Points: 2
+Throw: 12 O
+Points: 2
+Throw: 16 S
+Points: 2
+Throw: 12 T
+Points: 2
+Throw: 9 S
+Points: 2
+Throw: 19 T
+Points: 2
+Throw: 1 I
+Points: 2
+Throw: 4 D
+Points: 2
+Throw: 20 T
+Points: 2
+Throw: 10 S
+Points: 2
+Throw: 3 I
+Points: 2
+Throw: 5 T
+Points: 2
+Throw: 6 O
+Points: 2
+Throw: 19 D
+Points: 2
+Throw: 13 I
+Points: 2
+Throw: 9 I
+Points: 2
+Throw: 4 D
+Points: 2
+Throw: 10 T
+Points: 2
+Throw: 19 I
+Points: 2
+Throw: 10 O
+Points: 2
+Throw: 18 T
+Points: 2
+Throw: 13 S
+Points: 2
+Throw: 10 D
+Points: 2
+Throw: 17 T
+Points: 2
+Throw: 11 D
+Points: 2
+Throw: 11 O
+Points: 2
+Throw: 1 O
+Points: 2
+Throw: 20 O
+Points: 2
+Throw: 20 D
+Points: 2
+Throw: 1 D
+Points: 0
